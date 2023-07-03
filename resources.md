@@ -17,3 +17,12 @@ Codepen Example: [Happy Face Ice Cream Parlour – Intersection Observer example
 ## Video Tutorials
 
 Web Dev Simplified: [Learn Intersection Observer In 15 Minutes](https://youtu.be/2IbRtjez6ag)
+
+## Codepen Examples
+[Fade and Slide on Scroll](https://codepen.io/shafferma08/pen/gOQRvzQ)
+
+[To-do List](https://codepen.io/shafferma08/pen/mdQwXmK)
+
+[Threshold Example](https://codepen.io/shafferma08/pen/qBQjxdR)
+
+[Module 10 Collection](https://codepen.io/collection/eJjGOw)
