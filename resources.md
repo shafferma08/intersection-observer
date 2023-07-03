@@ -10,5 +10,10 @@
 
 ## Examples
 
-[Building A Dynamic Header With Intersection Observer](https://www.smashingmagazine.com/2021/07/dynamic-header-intersection-observer/)
-[Happy Face Ice Cream Parlour – Intersection Observer example](https://codepen.io/smashingmag/pen/XWRXVXQ)
+Step by Step Tutorial: [Building A Dynamic Header With Intersection Observer](https://www.smashingmagazine.com/2021/07/dynamic-header-intersection-observer/)
+
+Codepen Example: [Happy Face Ice Cream Parlour – Intersection Observer example](https://codepen.io/smashingmag/pen/XWRXVXQ)
+
+## Video Tutorials
+
+Web Dev Simplified: [Learn Intersection Observer In 15 Minutes](https://youtu.be/2IbRtjez6ag)
