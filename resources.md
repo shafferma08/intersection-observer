@@ -6,4 +6,4 @@ Sure, here are some resources to dive deeper into the Intersection Observer API:
 
 3. [A tutorial on the Intersection Observer API](https://www.smashingmagazine.com/2018/01/deferring-lazy-loading-intersection-observer-api/) from Smashing Magazine gives real-world examples and an in-depth explanation.
 
-4. [Understanding the Intersection Observer API](https://blog.bitsrc.io/understanding-the-intersection-observer-api-d13ea40abc9d) - Another blog post tutorial with examples and use cases.
+4. [The Intersection Observer API](https://blog.arnellebalane.com/the-intersection-observer-api-d441be0b088d) - Another blog post tutorial with examples and use cases.
