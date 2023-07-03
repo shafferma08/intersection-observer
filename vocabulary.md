@@ -23,3 +23,7 @@
 12. **Unobserve:** The action of instructing the Intersection Observer to stop observing a specified DOM element.
 
 13. **Bounding Box:** The smallest rectangular box which contains the entire element including its padding, margin and border.
+
+14. **Intersection Root:** In the context of Intersection Observer API, the intersection root is the element relative to which the intersections are being calculated. This can be a specific ancestor element of the target or, when null, defaults to the top-level document's viewport.
+
+15. **Intersection Ratio:** It's a property of the IntersectionObserverEntry object and is the ratio of the intersectionRect area to the boundingClientRect area. It's a decimal number between 0.0 and 1.0, where 0.0 means the target element is not intersecting the root, and 1.0 means the target element is completely within the root. The intersection ratio is used in conjunction with the thresholds to trigger the observer's callback function.
